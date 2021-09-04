@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=hika019&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hika019&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![contribution](https://github-contribution-stats.vercel.app/api/?username=hika019)
 
