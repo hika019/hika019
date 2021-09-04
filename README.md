@@ -1,7 +1,8 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=hika019)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hika019)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hika019)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=hika019&repo=homebridge-switchbot-for-mac)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hika019)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **hika019/hika019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
